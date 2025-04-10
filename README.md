@@ -6,8 +6,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&width=440&lines=Elegant.+Minimalist.+Mysterious.;Code+is+my+language.;GhopStyle+is+my+signature." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&width=440&lines=Minimalismo+con+estilo.;Diseño+que+habla+solo.;Código+que+inspira." alt="Typing SVG" />
 </p>
+
 
 ---
 
