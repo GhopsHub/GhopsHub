@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="120" style="border-radius: 50%;" alt="Avatar de Ghops">
+  <img src="ghops.png" width="120" style="border-radius: 50%;" alt="Avatar de Ghops">
 </p>
 
 <h1 align="center">Hola, soy Ghops</h1>
