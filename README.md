@@ -1,4 +1,9 @@
-<h1 align="center">👻 Welcome to GhopHub</h1>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="120" style="border-radius: 50%;" alt="Avatar de Ghops">
+</p>
+
+<h1 align="center">Hola, soy Ghops</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&width=440&lines=Elegant.+Minimalist.+Mysterious.;Code+is+my+language.;GhopStyle+is+my+signature." alt="Typing SVG" />
@@ -8,8 +13,8 @@
 
 ### 🧠 Sobre mí
 
-Soy **GhopsHub**, un desarrollador que transforma ideas en experiencias digitales con esencia propia.  
-Mi enfoque es claro: **minimalismo funcional, diseño que habla, código que fluye.**  
+Soy **Ghops**, un desarrollador que transforma ideas en experiencias digitales con esencia propia.  
+Mi enfoque es claro: **minimalismo funcional**  
 La estética no es opcional. Es parte del alma de cada proyecto.
 
 ---
