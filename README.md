@@ -5,8 +5,9 @@
 <h1 align="center">Hola, soy Ghops</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&width=440&lines=Minimalismo+con+estilo.;Diseno+que+habla+solo.;Codigo+que+inspira." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&width=440&lines=Minimalismo+con+estilo.;Estilo+que+comunica+solo.;Codigo+que+inspira." alt="Typing SVG" />
 </p>
+
 
 ---
 
