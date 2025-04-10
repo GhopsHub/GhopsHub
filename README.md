@@ -20,8 +20,6 @@ Para mí, la estética no es opcional; es parte del alma de cada proyecto.
 
 ---
 
----
-
 ### 🛠️ Tecnologías
 
 <p align="center">
@@ -30,5 +28,15 @@ Para mí, la estética no es opcional; es parte del alma de cada proyecto.
   <img src="https://img.shields.io/badge/Jetstream-4B5563?style=for-the-badge&logo=laravel&logoColor=white" alt="Jetstream"/>
   <img src="https://img.shields.io/badge/Filament-0EA5E9?style=for-the-badge&logo=filament&logoColor=white" alt="Filament"/>
   <img src="https://img.shields.io/badge/Voyager-23B5D3?style=for-the-badge&logo=laravel&logoColor=white" alt="Voyager"/>
+</p>
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GhopsHub&show_icons=true&theme=react&hide_title=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhopsHub&theme=react" alt="GitHub Streak" />
 </p>
 
