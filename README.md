@@ -13,9 +13,10 @@
 
 ### 🧠 Sobre mí
 
-Soy **Ghops**, un desarrollador que transforma ideas en experiencias digitales con esencia propia.  
-Mi enfoque es claro: **minimalismo funcional**.  
-La estética no es opcional; es parte del alma de cada proyecto.
+Soy **Ghops**, un desarrollador junior con grandes ideas y una visión clara: cada detalle importa.  
+Aunque a veces me tome más tiempo, me esfuerzo en comprender cada punto a fondo y hacer las cosas bien.  
+Creo en el poder del **minimalismo funcional**, donde el diseño no solo se ve bien, sino que **tiene sentido y propósito**.  
+Para mí, la estética no es opcional; es parte del alma de cada proyecto.
 
 ---
 
