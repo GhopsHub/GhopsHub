@@ -20,7 +20,7 @@ Para mí, la estética no es opcional; es parte del alma de cada proyecto.
 
 ---
 
-### 🛠️ Tecnologías
+### 💡 Tecnologías principales
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -30,13 +30,8 @@ Para mí, la estética no es opcional; es parte del alma de cada proyecto.
   <img src="https://img.shields.io/badge/Voyager-23B5D3?style=for-the-badge&logo=laravel&logoColor=white" alt="Voyager"/>
 </p>
 
----
+ ---
 
-### 📊 Stats
+<h3 align="center"><i>La perfección está en los detalles</i></h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhopsHub&show_icons=true&theme=react&hide_title=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhopsHub&theme=react" alt="GitHub Streak" />
-</p>
 
