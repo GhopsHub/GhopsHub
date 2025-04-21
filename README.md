@@ -10,7 +10,7 @@
 
 
 ---
-###🧠 Sobre mí
+### 🧠 Sobre mí
 
 Soy Ghops, un desarrollador junior con muchas ganas de crecer y seguir aprendiendo.
 
