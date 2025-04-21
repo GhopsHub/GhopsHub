@@ -10,13 +10,15 @@
 
 
 ---
+###🧠 Sobre mí
 
-### 🧠 Sobre mí
+Soy Ghops, un desarrollador junior con muchas ganas de crecer y seguir aprendiendo.
 
-Soy **Ghops**, un desarrollador junior con grandes ideas y una visión clara: cada detalle importa.  
-Aunque a veces me tome más tiempo, me esfuerzo en comprender cada punto a fondo y hacer las cosas bien.  
-Creo en el poder del **minimalismo funcional**, donde el diseño no solo se ve bien, sino que **tiene sentido y propósito**.  
-Para mí, la estética no es opcional; es parte del alma de cada proyecto.
+Me gusta involucrarme en proyectos donde pueda aportar, mejorar constantemente y adaptarme a distintos entornos, tecnologías o formas de trabajo. No tengo miedo de lo nuevo: lo veo como una oportunidad para evolucionar, tanto en lo técnico como en lo personal.
+
+Estoy empezando mi camino en el desarrollo, pero tengo claro que el aprendizaje continuo, la colaboración y la flexibilidad son claves para construir soluciones reales y útiles.
+
+Siempre estoy en busca de nuevos retos que me ayuden a mejorar y a sumar experiencia.
 
 ---
 
