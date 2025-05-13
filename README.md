@@ -12,7 +12,7 @@
 ---
 ### 🧠 Sobre mí
 
-Soy Julian, un desarrollador junior con muchas ganas de crecer y seguir aprendiendo.
+Me llamo Julian, un desarrollador junior con muchas ganas de crecer y seguir aprendiendo.
 
 Me gusta involucrarme en proyectos donde pueda aportar, mejorar constantemente y adaptarme a distintos entornos, tecnologías o formas de trabajo. No tengo miedo de lo nuevo: lo veo como una oportunidad para evolucionar, tanto en lo técnico como en lo personal.
 
