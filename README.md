@@ -28,9 +28,7 @@ Siempre estoy en busca de nuevos retos que me ayuden a mejorar y a sumar experie
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue"/>
-<img src="https://img.shields.io/badge/Inertia.js-800080?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Jetstream-4B5563?style=for-the-badge&logo=laravel&logoColor=white" alt="Jetstream"/>
   <img src="https://img.shields.io/badge/Filament-0EA5E9?style=for-the-badge&logo=filament&logoColor=white" alt="Filament"/>
 
  ---
